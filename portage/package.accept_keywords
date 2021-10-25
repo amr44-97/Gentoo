@@ -1,0 +1,1676 @@
+# required by =app-editors/neovim-0.5.1 (argument)
+=app-editors/neovim-0.5.1 ~amd64
+=www-client/firefox-93.0  ~amd64
+# required by dev-haskell/tls-1.5.4::gentoo
+# required by dev-haskell/connection-0.3.1::gentoo
+# required by dev-haskell/http-client-tls-0.3.5.3::gentoo
+# required by dev-haskell/http-conduit-2.3.7.3::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[-uvmeter,-xpm,dbus,-mpris,weather]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/async-2.2.2 ~amd64
+# required by x11-misc/xmobar-0.37::gentoo
+# required by x11-misc/xmobar (argument)
+=dev-haskell/parsec-numbers-0.1.0 ~amd64
+# required by x11-wm/xmonad-0.15-r1::gentoo
+# required by x11-wm/xmonad-contrib-0.16::gentoo
+# required by x11-wm/xmonad-contrib (argument)
+=dev-haskell/x11-1.9.2 ~amd64
+# required by dev-haskell/dbus-1.2.16::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-mpris]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/conduit-1.3.4 ~amd64
+# required by dev-haskell/asn1-encoding-0.9.6::gentoo
+# required by dev-haskell/asn1-parse-0.9.5::gentoo
+# required by dev-haskell/x509-1.7.5::gentoo
+# required by dev-haskell/x509-system-1.6.6::gentoo
+# required by dev-haskell/connection-0.3.1::gentoo
+# required by dev-haskell/http-client-tls-0.3.5.3::gentoo
+# required by dev-haskell/http-conduit-2.3.7.3::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[-uvmeter,-xpm,dbus,-mpris,weather]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/hourglass-0.2.12 ~amd64
+# required by dev-haskell/aeson-1.4.7.1::gentoo
+# required by dev-haskell/http-conduit-2.3.7.3::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[-uvmeter,-xpm,dbus,-mpris,weather]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/vector-0.12.1.2 ~amd64
+# required by dev-haskell/data-default-0.7.1.1::gentoo
+# required by x11-wm/xmonad-0.15-r1::gentoo
+# required by x11-wm/xmonad-contrib-0.16::gentoo
+# required by x11-wm/xmonad-contrib (argument)
+=dev-haskell/data-default-instances-containers-0.0.1 ~amd64
+# required by dev-haskell/http-client-0.6.4.1::gentoo
+# required by dev-haskell/http-client-tls-0.3.5.3::gentoo
+# required by dev-haskell/http-conduit-2.3.7.3::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[-uvmeter,-xpm,dbus,-mpris,weather]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/cookie-0.4.4 ~amd64
+# required by dev-haskell/parsec-3.1.14.0::gentoo
+# required by dev-haskell/parsec-numbers-0.1.0::gentoo[-parsec1]
+# required by x11-misc/xmobar-0.37::gentoo
+# required by x11-misc/xmobar (argument)
+=dev-haskell/mtl-2.2.2 ~amd64
+# required by dev-haskell/http-client-0.6.4.1::gentoo
+# required by dev-haskell/http-client-tls-0.3.5.3::gentoo
+# required by dev-haskell/http-conduit-2.3.7.3::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[-uvmeter,-xpm,dbus,-mpris,weather]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/blaze-builder-0.4.1.0 ~amd64
+# required by dev-haskell/aeson-1.4.7.1::gentoo
+# required by dev-haskell/http-conduit-2.3.7.3::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[-uvmeter,-xpm,dbus,-mpris,weather]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/unordered-containers-0.2.12.0 ~amd64
+# required by dev-haskell/tls-1.5.4::gentoo
+# required by dev-haskell/connection-0.3.1::gentoo
+# required by dev-haskell/http-client-tls-0.3.5.3::gentoo
+# required by dev-haskell/http-conduit-2.3.7.3::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[-uvmeter,-xpm,dbus,-mpris,weather]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/x509-validation-1.6.11 ~amd64
+# required by dev-haskell/x11-1.9.2::gentoo
+# required by x11-wm/xmonad-0.15-r1::gentoo
+# required by x11-wm/xmonad-contrib-0.16::gentoo
+# required by x11-wm/xmonad-contrib (argument)
+=dev-haskell/data-default-0.7.1.1 ~amd64
+# required by dev-haskell/transformers-compat-0.6.6::gentoo
+# required by dev-haskell/transformers-base-0.4.5.2::gentoo
+# required by dev-haskell/free-5.1.3::gentoo
+# required by dev-haskell/adjunctions-4.4::gentoo
+# required by dev-haskell/kan-extensions-5.2::gentoo
+# required by dev-haskell/lens-4.19.2-r2::gentoo
+# required by dev-haskell/dbus-1.2.16::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-mpris]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/transformers-0.5.6.2 ~amd64
+# required by dev-haskell/conduit-extra-1.3.4::gentoo
+# required by dev-haskell/xml-conduit-1.9.1.1::gentoo
+# required by dev-haskell/dbus-1.2.16::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-mpris]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/typed-process-0.2.6.0 ~amd64
+# required by dev-haskell/aeson-1.4.7.1::gentoo
+# required by dev-haskell/http-conduit-2.3.7.3::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[-uvmeter,-xpm,dbus,-mpris,weather]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/base-compat-batteries-0.11.1 ~amd64
+# required by dev-haskell/c2hs-0.28.8::gentoo
+# required by dev-haskell/alsa-mixer-0.3.0::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[alsa]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/language-c-0.8.3-r1 ~amd64
+# required by dev-haskell/dbus-1.2.16::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-mpris]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/network-3.0.1.1 ~amd64
+# required by dev-haskell/http-conduit-2.3.7.3::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[-uvmeter,-xpm,dbus,-mpris,weather]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/http-client-0.6.4.1 ~amd64
+# required by dev-haskell/language-c-0.8.3-r1::gentoo
+# required by dev-haskell/c2hs-0.28.8::gentoo
+# required by dev-haskell/alsa-mixer-0.3.0::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[alsa]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/alex-3.2.5 ~amd64
+# required by dev-haskell/cabal-3.2.1.0-r1::gentoo
+# required by dev-haskell/setlocale-1.0.0.9::gentoo
+# required by x11-wm/xmonad-0.15-r1::gentoo
+# required by x11-wm/xmonad-contrib-0.16::gentoo
+# required by x11-wm/xmonad-contrib (argument)
+=dev-haskell/text-1.2.4.1 ~amd64
+# required by dev-haskell/base-compat-batteries-0.11.1::gentoo
+# required by dev-haskell/aeson-1.4.7.1::gentoo
+# required by dev-haskell/http-conduit-2.3.7.3::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[-uvmeter,-xpm,dbus,-mpris,weather]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/base-compat-0.11.1 ~amd64
+# required by dev-haskell/conduit-1.3.4::gentoo
+# required by dev-haskell/xml-conduit-1.9.1.1::gentoo
+# required by dev-haskell/dbus-1.2.16::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-mpris]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/mono-traversable-1.0.15.1 ~amd64
+# required by dev-haskell/dbus-1.2.16::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-mpris]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/xml-types-0.3.8 ~amd64
+# required by dev-haskell/aeson-1.4.7.1::gentoo
+# required by dev-haskell/http-conduit-2.3.7.3::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[-uvmeter,-xpm,dbus,-mpris,weather]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/primitive-0.7.1.0 ~amd64
+# required by dev-haskell/mono-traversable-1.0.15.1::gentoo
+# required by dev-haskell/conduit-1.3.4::gentoo
+# required by dev-haskell/xml-conduit-1.9.1.1::gentoo
+# required by dev-haskell/dbus-1.2.16::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-mpris]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/split-0.2.3.4 ~amd64
+# required by dev-haskell/async-2.2.2::gentoo
+# required by dev-haskell/tls-1.5.4::gentoo
+# required by dev-haskell/connection-0.3.1::gentoo
+# required by dev-haskell/http-client-tls-0.3.5.3::gentoo
+# required by dev-haskell/http-conduit-2.3.7.3::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[-uvmeter,-xpm,dbus,-mpris,weather]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/stm-2.5.0.0 ~amd64
+# required by dev-haskell/x509-store-1.6.7::gentoo
+# required by dev-haskell/x509-system-1.6.6::gentoo
+# required by dev-haskell/connection-0.3.1::gentoo
+# required by dev-haskell/http-client-tls-0.3.5.3::gentoo
+# required by dev-haskell/http-conduit-2.3.7.3::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[-uvmeter,-xpm,dbus,-mpris,weather]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/pem-0.2.4 ~amd64
+# required by dev-haskell/invariant-0.5.3::gentoo
+# required by dev-haskell/kan-extensions-5.2::gentoo
+# required by dev-haskell/lens-4.19.2-r2::gentoo
+# required by dev-haskell/dbus-1.2.16::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-mpris]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/profunctors-5.5.1 ~amd64
+# required by dev-haskell/data-default-0.7.1.1::gentoo
+# required by x11-wm/xmonad-0.15-r1::gentoo
+# required by x11-wm/xmonad-contrib-0.16::gentoo
+# required by x11-wm/xmonad-contrib (argument)
+=dev-haskell/data-default-instances-dlist-0.0.1 ~amd64
+# required by dev-haskell/time-compat-1.9.3::gentoo
+# required by dev-haskell/aeson-1.4.7.1::gentoo
+# required by dev-haskell/http-conduit-2.3.7.3::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[-uvmeter,-xpm,dbus,-mpris,weather]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/semigroups-0.18.5 ~amd64
+# required by dev-haskell/cabal-3.2.1.0-r1::gentoo
+# required by dev-haskell/setlocale-1.0.0.9::gentoo
+# required by x11-wm/xmonad-0.15-r1::gentoo
+# required by x11-wm/xmonad-contrib-0.16::gentoo
+# required by x11-wm/xmonad-contrib (argument)
+=dev-haskell/parsec-3.1.14.0 ~amd64
+# required by dev-haskell/kan-extensions-5.2::gentoo
+# required by dev-haskell/lens-4.19.2-r2::gentoo
+# required by dev-haskell/dbus-1.2.16::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-mpris]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/adjunctions-4.4 ~amd64
+# required by dev-haskell/language-c-0.8.3-r1::gentoo
+# required by dev-haskell/c2hs-0.28.8::gentoo
+# required by dev-haskell/alsa-mixer-0.3.0::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[alsa]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/happy-1.19.12 ~amd64
+# required by dev-haskell/http-client-0.6.4.1::gentoo
+# required by dev-haskell/http-client-tls-0.3.5.3::gentoo
+# required by dev-haskell/http-conduit-2.3.7.3::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[-uvmeter,-xpm,dbus,-mpris,weather]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/http-types-0.12.3 ~amd64
+# required by dev-haskell/connection-0.3.1::gentoo
+# required by dev-haskell/http-client-tls-0.3.5.3::gentoo
+# required by dev-haskell/http-conduit-2.3.7.3::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[-uvmeter,-xpm,dbus,-mpris,weather]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/x509-system-1.6.6 ~amd64
+# required by dev-haskell/lens-4.19.2-r2::gentoo
+# required by dev-haskell/dbus-1.2.16::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-mpris]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/parallel-3.2.2.0 ~amd64
+# required by dev-haskell/uuid-types-1.0.3-r1::gentoo
+# required by dev-haskell/aeson-1.4.7.1::gentoo
+# required by dev-haskell/http-conduit-2.3.7.3::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[-uvmeter,-xpm,dbus,-mpris,weather]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/binary-0.8.7.0 ~amd64
+# required by dev-haskell/xml-conduit-1.9.1.1::gentoo
+# required by dev-haskell/dbus-1.2.16::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-mpris]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/blaze-html-0.9.1.2 ~amd64
+# required by dev-haskell/free-5.1.3::gentoo
+# required by dev-haskell/adjunctions-4.4::gentoo
+# required by dev-haskell/kan-extensions-5.2::gentoo
+# required by dev-haskell/lens-4.19.2-r2::gentoo
+# required by dev-haskell/dbus-1.2.16::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-mpris]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/transformers-base-0.4.5.2 ~amd64
+# required by x11-misc/xmobar-0.37::gentoo[xft]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/x11-xft-0.3.1-r1 ~amd64
+# required by dev-haskell/base-compat-batteries-0.11.1::gentoo
+# required by dev-haskell/aeson-1.4.7.1::gentoo
+# required by dev-haskell/http-conduit-2.3.7.3::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[-uvmeter,-xpm,dbus,-mpris,weather]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/nats-1.1.2 ~amd64
+# required by x11-misc/xmobar-0.37::gentoo[-uvmeter,-xpm,dbus,-mpris,weather]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/http-conduit-2.3.7.3 ~amd64
+# required by dev-haskell/aeson-1.4.7.1::gentoo
+# required by dev-haskell/http-conduit-2.3.7.3::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[-uvmeter,-xpm,dbus,-mpris,weather]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/uuid-types-1.0.3-r1 ~amd64
+# required by dev-haskell/lens-4.19.2-r2::gentoo
+# required by dev-haskell/dbus-1.2.16::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-mpris]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/kan-extensions-5.2 ~amd64
+# required by dev-haskell/dbus-1.2.16::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-mpris]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/th-lift-0.8.1 ~amd64
+# required by dev-haskell/scientific-0.3.6.2::gentoo
+# required by dev-haskell/aeson-1.4.7.1::gentoo
+# required by dev-haskell/http-conduit-2.3.7.3::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[-uvmeter,-xpm,dbus,-mpris,weather]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/bytestring-builder-0.10.8.2.0 ~amd64
+# required by dev-haskell/alsa-core-0.5.0.1-r2::gentoo
+# required by dev-haskell/alsa-mixer-0.3.0::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[alsa]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/extensible-exceptions-0.1.1.4 ~amd64
+# required by dev-haskell/http-conduit-2.3.7.3::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[-uvmeter,-xpm,dbus,-mpris,weather]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/http-client-tls-0.3.5.3 ~amd64
+# required by dev-haskell/time-compat-1.9.3::gentoo
+# required by dev-haskell/aeson-1.4.7.1::gentoo
+# required by dev-haskell/http-conduit-2.3.7.3::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[-uvmeter,-xpm,dbus,-mpris,weather]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/old-locale-1.0.0.7 ~amd64
+# required by dev-haskell/aeson-1.4.7.1::gentoo
+# required by dev-haskell/http-conduit-2.3.7.3::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[-uvmeter,-xpm,dbus,-mpris,weather]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/time-compat-1.9.3 ~amd64
+# required by dev-haskell/bifunctors-5.5.6::gentoo
+# required by dev-haskell/free-5.1.3::gentoo
+# required by dev-haskell/adjunctions-4.4::gentoo
+# required by dev-haskell/kan-extensions-5.2::gentoo
+# required by dev-haskell/lens-4.19.2-r2::gentoo
+# required by dev-haskell/dbus-1.2.16::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-mpris]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/th-abstraction-0.3.2.0 ~amd64
+# required by dev-haskell/uuid-types-1.0.3-r1::gentoo
+# required by dev-haskell/aeson-1.4.7.1::gentoo
+# required by dev-haskell/http-conduit-2.3.7.3::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[-uvmeter,-xpm,dbus,-mpris,weather]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/random-1.1 ~amd64
+# required by dev-haskell/memory-0.15.0::gentoo
+# required by dev-haskell/cryptonite-0.26-r1::gentoo
+# required by dev-haskell/x509-1.7.5::gentoo
+# required by dev-haskell/x509-system-1.6.6::gentoo
+# required by dev-haskell/connection-0.3.1::gentoo
+# required by dev-haskell/http-client-tls-0.3.5.3::gentoo
+# required by dev-haskell/http-conduit-2.3.7.3::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[-uvmeter,-xpm,dbus,-mpris,weather]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/basement-0.0.11 ~amd64
+# required by dev-haskell/http-client-0.6.4.1::gentoo
+# required by dev-haskell/http-client-tls-0.3.5.3::gentoo
+# required by dev-haskell/http-conduit-2.3.7.3::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[-uvmeter,-xpm,dbus,-mpris,weather]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/mime-types-0.1.0.9 ~amd64
+# required by dev-haskell/data-default-0.7.1.1::gentoo
+# required by x11-wm/xmonad-0.15-r1::gentoo
+# required by x11-wm/xmonad-contrib-0.16::gentoo
+# required by x11-wm/xmonad-contrib (argument)
+=dev-haskell/data-default-class-0.1.2.0 ~amd64
+# required by dev-haskell/http-client-tls-0.3.5.3::gentoo
+# required by dev-haskell/http-conduit-2.3.7.3::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[-uvmeter,-xpm,dbus,-mpris,weather]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/connection-0.3.1 ~amd64
+# required by dev-haskell/free-5.1.3::gentoo
+# required by dev-haskell/adjunctions-4.4::gentoo
+# required by dev-haskell/kan-extensions-5.2::gentoo
+# required by dev-haskell/lens-4.19.2-r2::gentoo
+# required by dev-haskell/dbus-1.2.16::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-mpris]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/exceptions-0.10.4 ~amd64
+# required by dev-haskell/regex-posix-0.96.0.0::gentoo
+# required by dev-haskell/regex-compat-0.95.2.0::gentoo
+# required by x11-misc/xmobar-0.37::gentoo
+# required by x11-misc/xmobar (argument)
+=dev-haskell/regex-base-0.94.0.0 ~amd64
+# required by dev-haskell/aeson-1.4.7.1::gentoo
+# required by dev-haskell/http-conduit-2.3.7.3::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[-uvmeter,-xpm,dbus,-mpris,weather]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/hashable-1.2.7.0 ~amd64
+# required by dev-haskell/x509-1.7.5::gentoo
+# required by dev-haskell/x509-system-1.6.6::gentoo
+# required by dev-haskell/connection-0.3.1::gentoo
+# required by dev-haskell/http-client-tls-0.3.5.3::gentoo
+# required by dev-haskell/http-conduit-2.3.7.3::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[-uvmeter,-xpm,dbus,-mpris,weather]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/asn1-parse-0.9.5 ~amd64
+# required by dev-haskell/streaming-commons-0.2.1.2::gentoo
+# required by dev-haskell/conduit-extra-1.3.4::gentoo
+# required by dev-haskell/xml-conduit-1.9.1.1::gentoo
+# required by dev-haskell/dbus-1.2.16::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-mpris]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/zlib-0.6.2.2 ~amd64
+# required by dev-haskell/http-client-0.6.4.1::gentoo
+# required by dev-haskell/http-client-tls-0.3.5.3::gentoo
+# required by dev-haskell/http-conduit-2.3.7.3::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[-uvmeter,-xpm,dbus,-mpris,weather]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/case-insensitive-1.2.1.0 ~amd64
+# required by dev-haskell/contravariant-1.5.2::gentoo[statevar]
+# required by dev-haskell/adjunctions-4.4::gentoo
+# required by dev-haskell/kan-extensions-5.2::gentoo
+# required by dev-haskell/lens-4.19.2-r2::gentoo
+# required by dev-haskell/dbus-1.2.16::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-mpris]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/statevar-1.1.1.1 ~amd64
+# required by dev-haskell/kan-extensions-5.2::gentoo
+# required by dev-haskell/lens-4.19.2-r2::gentoo
+# required by dev-haskell/dbus-1.2.16::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-mpris]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/invariant-0.5.3 ~amd64
+# required by x11-wm/xmonad-contrib (argument)
+=x11-wm/xmonad-contrib-0.16 ~amd64
+# required by dev-haskell/base-compat-batteries-0.11.1::gentoo
+# required by dev-haskell/aeson-1.4.7.1::gentoo
+# required by dev-haskell/http-conduit-2.3.7.3::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[-uvmeter,-xpm,dbus,-mpris,weather]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/type-equality-1 ~amd64
+# required by dev-haskell/aeson-1.4.7.1::gentoo
+# required by dev-haskell/http-conduit-2.3.7.3::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[-uvmeter,-xpm,dbus,-mpris,weather]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/attoparsec-0.13.2.3 ~amd64
+# required by dev-haskell/time-compat-1.9.3::gentoo
+# required by dev-haskell/aeson-1.4.7.1::gentoo
+# required by dev-haskell/http-conduit-2.3.7.3::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[-uvmeter,-xpm,dbus,-mpris,weather]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/fail-4.9.0.0 ~amd64
+# required by dev-haskell/invariant-0.5.3::gentoo
+# required by dev-haskell/kan-extensions-5.2::gentoo
+# required by dev-haskell/lens-4.19.2-r2::gentoo
+# required by dev-haskell/dbus-1.2.16::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-mpris]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/comonad-5.0.7 ~amd64
+# required by dev-haskell/xml-conduit-1.9.1.1::gentoo
+# required by dev-haskell/dbus-1.2.16::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-mpris]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/cabal-doctest-1.0.8-r1 ~amd64
+# required by dev-haskell/http-conduit-2.3.7.3::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[-uvmeter,-xpm,dbus,-mpris,weather]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/aeson-1.4.7.1 ~amd64
+# required by dev-haskell/aeson-1.4.7.1::gentoo
+# required by dev-haskell/http-conduit-2.3.7.3::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[-uvmeter,-xpm,dbus,-mpris,weather]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/scientific-0.3.6.2 ~amd64
+# required by dev-haskell/scientific-0.3.6.2::gentoo
+# required by dev-haskell/aeson-1.4.7.1::gentoo
+# required by dev-haskell/http-conduit-2.3.7.3::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[-uvmeter,-xpm,dbus,-mpris,weather]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/integer-logarithms-1.0.3.1 ~amd64
+# required by dev-haskell/indexed-traversable-0.1.1::gentoo
+# required by dev-haskell/comonad-5.0.7::gentoo[indexed-traversable]
+# required by dev-haskell/free-5.1.3::gentoo
+# required by dev-haskell/adjunctions-4.4::gentoo
+# required by dev-haskell/kan-extensions-5.2::gentoo
+# required by dev-haskell/lens-4.19.2-r2::gentoo
+# required by dev-haskell/dbus-1.2.16::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-mpris]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/void-0.7.3 ~amd64
+# required by dev-haskell/connection-0.3.1::gentoo
+# required by dev-haskell/http-client-tls-0.3.5.3::gentoo
+# required by dev-haskell/http-conduit-2.3.7.3::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[-uvmeter,-xpm,dbus,-mpris,weather]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/tls-1.5.4 ~amd64
+# required by dev-haskell/xml-conduit-1.9.1.1::gentoo
+# required by dev-haskell/dbus-1.2.16::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-mpris]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/conduit-extra-1.3.4 ~amd64
+# required by dev-haskell/data-default-0.7.1.1::gentoo
+# required by x11-wm/xmonad-0.15-r1::gentoo
+# required by x11-wm/xmonad-contrib-0.16::gentoo
+# required by x11-wm/xmonad-contrib (argument)
+=dev-haskell/data-default-instances-old-locale-0.0.1 ~amd64
+# required by dev-haskell/dbus-1.2.16::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-mpris]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/lens-4.19.2-r2 ~amd64
+# required by x11-wm/xmonad-contrib-0.16::gentoo
+# required by x11-wm/xmonad-contrib (argument)
+=x11-wm/xmonad-0.15-r1 ~amd64
+# required by dev-haskell/aeson-1.4.7.1::gentoo
+# required by dev-haskell/http-conduit-2.3.7.3::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[-uvmeter,-xpm,dbus,-mpris,weather]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/tagged-0.8.6 ~amd64
+# required by dev-haskell/blaze-html-0.9.1.2::gentoo
+# required by dev-haskell/xml-conduit-1.9.1.1::gentoo
+# required by dev-haskell/dbus-1.2.16::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-mpris]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/blaze-markup-0.8.2.4 ~amd64
+# required by x11-wm/xmonad-0.15-r1::gentoo
+# required by x11-wm/xmonad-contrib-0.16::gentoo
+# required by x11-wm/xmonad-contrib (argument)
+=dev-haskell/utf8-string-1.0.1.1 ~amd64
+# required by dev-haskell/indexed-traversable-0.1.1::gentoo
+# required by dev-haskell/comonad-5.0.7::gentoo[indexed-traversable]
+# required by dev-haskell/free-5.1.3::gentoo
+# required by dev-haskell/adjunctions-4.4::gentoo
+# required by dev-haskell/kan-extensions-5.2::gentoo
+# required by dev-haskell/lens-4.19.2-r2::gentoo
+# required by dev-haskell/dbus-1.2.16::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-mpris]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/base-orphans-0.8.4 ~amd64
+# required by dev-haskell/alsa-mixer-0.3.0::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[alsa]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/c2hs-0.28.8 ~amd64
+# required by dev-haskell/comonad-5.0.7::gentoo[indexed-traversable]
+# required by dev-haskell/free-5.1.3::gentoo
+# required by dev-haskell/adjunctions-4.4::gentoo
+# required by dev-haskell/kan-extensions-5.2::gentoo
+# required by dev-haskell/lens-4.19.2-r2::gentoo
+# required by dev-haskell/dbus-1.2.16::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-mpris]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/indexed-traversable-0.1.1 ~amd64
+# required by dev-haskell/x509-1.7.5::gentoo
+# required by dev-haskell/x509-system-1.6.6::gentoo
+# required by dev-haskell/connection-0.3.1::gentoo
+# required by dev-haskell/http-client-tls-0.3.5.3::gentoo
+# required by dev-haskell/http-conduit-2.3.7.3::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[-uvmeter,-xpm,dbus,-mpris,weather]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/asn1-types-0.3.3 ~amd64
+# required by x11-misc/xmobar-0.37::gentoo
+# required by x11-misc/xmobar (argument)
+=dev-haskell/regex-compat-0.95.2.0 ~amd64
+# required by dev-haskell/base-compat-batteries-0.11.1::gentoo
+# required by dev-haskell/aeson-1.4.7.1::gentoo
+# required by dev-haskell/http-conduit-2.3.7.3::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[-uvmeter,-xpm,dbus,-mpris,weather]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/bifunctors-5.5.6 ~amd64
+# required by dev-haskell/mono-traversable-1.0.15.1::gentoo
+# required by dev-haskell/conduit-1.3.4::gentoo
+# required by dev-haskell/xml-conduit-1.9.1.1::gentoo
+# required by dev-haskell/dbus-1.2.16::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-mpris]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/vector-algorithms-0.8.0.3 ~amd64
+# required by dev-haskell/lens-4.19.2-r2::gentoo
+# required by dev-haskell/dbus-1.2.16::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-mpris]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/call-stack-0.3.0 ~amd64
+# required by x11-wm/xmonad-contrib-0.16::gentoo
+# required by x11-wm/xmonad-contrib (argument)
+=dev-haskell/old-time-1.1.0.3-r1 ~amd64
+# required by dev-haskell/lens-4.19.2-r2::gentoo
+# required by dev-haskell/dbus-1.2.16::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-mpris]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/semigroupoids-5.3.4 ~amd64
+# required by dev-haskell/text-1.2.4.1::gentoo
+# required by dev-haskell/parsec-3.1.14.0::gentoo
+# required by dev-haskell/parsec-numbers-0.1.0::gentoo[-parsec1]
+# required by x11-misc/xmobar-0.37::gentoo
+# required by x11-misc/xmobar (argument)
+=dev-lang/ghc-8.10.4-r1 ~amd64
+# required by dev-haskell/indexed-traversable-0.1.1::gentoo
+# required by dev-haskell/comonad-5.0.7::gentoo[indexed-traversable]
+# required by dev-haskell/free-5.1.3::gentoo
+# required by dev-haskell/adjunctions-4.4::gentoo
+# required by dev-haskell/kan-extensions-5.2::gentoo
+# required by dev-haskell/lens-4.19.2-r2::gentoo
+# required by dev-haskell/dbus-1.2.16::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-mpris]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/transformers-compat-0.6.6 ~amd64
+# required by dev-haskell/cryptonite-0.26-r1::gentoo
+# required by dev-haskell/x509-1.7.5::gentoo
+# required by dev-haskell/x509-system-1.6.6::gentoo
+# required by dev-haskell/connection-0.3.1::gentoo
+# required by dev-haskell/http-client-tls-0.3.5.3::gentoo
+# required by dev-haskell/http-conduit-2.3.7.3::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[-uvmeter,-xpm,dbus,-mpris,weather]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/memory-0.15.0 ~amd64
+# required by x11-misc/xmobar-0.37::gentoo[alsa]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/alsa-mixer-0.3.0 ~amd64
+# required by dev-haskell/language-c-0.8.3-r1::gentoo
+# required by dev-haskell/c2hs-0.28.8::gentoo
+# required by dev-haskell/alsa-mixer-0.3.0::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[alsa]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/syb-0.7.1 ~amd64
+# required by dev-haskell/dbus-1.2.16::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-mpris]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/xml-conduit-1.9.1.1 ~amd64
+# required by dev-haskell/conduit-extra-1.3.4::gentoo
+# required by dev-haskell/xml-conduit-1.9.1.1::gentoo
+# required by dev-haskell/dbus-1.2.16::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-mpris]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/unliftio-core-0.1.2.0 ~amd64
+# required by dev-haskell/aeson-1.4.7.1::gentoo
+# required by dev-haskell/http-conduit-2.3.7.3::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[-uvmeter,-xpm,dbus,-mpris,weather]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/dlist-0.8.0.7 ~amd64
+# required by dev-haskell/base-compat-batteries-0.11.1::gentoo
+# required by dev-haskell/aeson-1.4.7.1::gentoo
+# required by dev-haskell/http-conduit-2.3.7.3::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[-uvmeter,-xpm,dbus,-mpris,weather]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/contravariant-1.5.2 ~amd64
+# required by dev-haskell/regex-compat-0.95.2.0::gentoo
+# required by x11-misc/xmobar-0.37::gentoo
+# required by x11-misc/xmobar (argument)
+=dev-haskell/regex-posix-0.96.0.0 ~amd64
+# required by dev-haskell/lens-4.19.2-r2::gentoo
+# required by dev-haskell/dbus-1.2.16::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-mpris]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/distributive-0.6.1 ~amd64
+# required by dev-haskell/kan-extensions-5.2::gentoo
+# required by dev-haskell/lens-4.19.2-r2::gentoo
+# required by dev-haskell/dbus-1.2.16::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-mpris]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/free-5.1.3 ~amd64
+# required by dev-haskell/tls-1.5.4::gentoo
+# required by dev-haskell/connection-0.3.1::gentoo
+# required by dev-haskell/http-client-tls-0.3.5.3::gentoo
+# required by dev-haskell/http-conduit-2.3.7.3::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[-uvmeter,-xpm,dbus,-mpris,weather]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/cryptonite-0.26-r1 ~amd64
+# required by dev-haskell/connection-0.3.1::gentoo
+# required by dev-haskell/http-client-tls-0.3.5.3::gentoo
+# required by dev-haskell/http-conduit-2.3.7.3::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[-uvmeter,-xpm,dbus,-mpris,weather]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/socks-0.6.1 ~amd64
+# required by dev-haskell/x509-store-1.6.7::gentoo
+# required by dev-haskell/x509-system-1.6.6::gentoo
+# required by dev-haskell/connection-0.3.1::gentoo
+# required by dev-haskell/http-client-tls-0.3.5.3::gentoo
+# required by dev-haskell/http-conduit-2.3.7.3::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[-uvmeter,-xpm,dbus,-mpris,weather]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/asn1-encoding-0.9.6 ~amd64
+# required by dev-haskell/xml-conduit-1.9.1.1::gentoo
+# required by dev-haskell/dbus-1.2.16::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-mpris]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/resourcet-1.2.4.2 ~amd64
+# required by dev-haskell/tls-1.5.4::gentoo
+# required by dev-haskell/connection-0.3.1::gentoo
+# required by dev-haskell/http-client-tls-0.3.5.3::gentoo
+# required by dev-haskell/http-conduit-2.3.7.3::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[-uvmeter,-xpm,dbus,-mpris,weather]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/cereal-0.5.8.1 ~amd64
+# required by dev-haskell/http-client-0.6.4.1::gentoo
+# required by dev-haskell/http-client-tls-0.3.5.3::gentoo
+# required by dev-haskell/http-conduit-2.3.7.3::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[-uvmeter,-xpm,dbus,-mpris,weather]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/streaming-commons-0.2.1.2 ~amd64
+# required by x11-wm/xmonad-0.15-r1::gentoo
+# required by x11-wm/xmonad-contrib-0.16::gentoo
+# required by x11-wm/xmonad-contrib (argument)
+=dev-haskell/setlocale-1.0.0.9 ~amd64
+# required by dev-haskell/x509-store-1.6.7::gentoo
+# required by dev-haskell/x509-system-1.6.6::gentoo
+# required by dev-haskell/connection-0.3.1::gentoo
+# required by dev-haskell/http-client-tls-0.3.5.3::gentoo
+# required by dev-haskell/http-conduit-2.3.7.3::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[-uvmeter,-xpm,dbus,-mpris,weather]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/x509-1.7.5 ~amd64
+# required by dev-haskell/http-client-0.6.4.1::gentoo[network-uri]
+# required by dev-haskell/http-client-tls-0.3.5.3::gentoo
+# required by dev-haskell/http-conduit-2.3.7.3::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[-uvmeter,-xpm,dbus,-mpris,weather]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/network-uri-2.6.3.0 ~amd64
+# required by dev-haskell/x509-system-1.6.6::gentoo
+# required by dev-haskell/connection-0.3.1::gentoo
+# required by dev-haskell/http-client-tls-0.3.5.3::gentoo
+# required by dev-haskell/http-conduit-2.3.7.3::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[-uvmeter,-xpm,dbus,-mpris,weather]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/x509-store-1.6.7 ~amd64
+# required by dev-haskell/call-stack-0.3.0::gentoo
+# required by dev-haskell/lens-4.19.2-r2::gentoo
+# required by dev-haskell/dbus-1.2.16::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-mpris]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/cabal-3.2.1.0-r1 ~amd64
+# required by dev-haskell/lens-4.19.2-r2::gentoo
+# required by dev-haskell/dbus-1.2.16::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-mpris]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/reflection-2.1.6 ~amd64
+# required by dev-lang/ghc-8.10.4-r1::gentoo[-ghcbootstrap]
+# required by dev-haskell/setlocale-1.0.0.9::gentoo
+# required by x11-wm/xmonad-0.15-r1::gentoo
+# required by x11-wm/xmonad-contrib-0.16::gentoo
+# required by x11-wm/xmonad-contrib (argument)
+=app-admin/haskell-updater-1.3.2 ~amd64
+# required by dev-haskell/alsa-mixer-0.3.0::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[alsa]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/alsa-core-0.5.0.1-r2 ~amd64
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-mpris]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/dbus-1.2.16 ~amd64
+# required by x11-misc/xmobar (argument)
+=x11-misc/xmobar-0.37 ~amd64
+# required by x11-misc/xmobar-0.37::gentoo[inotify]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/hinotify-0.3.10 ~amd64
+# required by x11-misc/xmobar-0.37::gentoo[wifi]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/netlink-1.1.1.0 ~amd64
+# required by x11-misc/xmobar-0.37::gentoo[mpd]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/libmpd-0.9.2.0 ~amd64
+# required by dev-haskell/libmpd-0.9.2.0::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[mpd]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/safe-exceptions-0.1.7.0 ~amd64
+# required by dev-haskell/timezone-olson-0.2.0::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[timezone]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/timezone-series-0.1.9 ~amd64
+# required by dev-haskell/netlink-1.1.1.0::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[wifi]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/monad-loops-0.4.3 ~amd64
+# required by dev-haskell/netlink-1.1.1.0::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[wifi]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/pretty-hex-1.0 ~amd64
+# required by x11-misc/xmobar-0.37::gentoo[timezone]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/timezone-olson-0.2.0 ~amd64
+# required by dev-haskell/syb-0.7.1::gentoo[hscolour]
+# required by dev-haskell/language-c-0.8.3-r1::gentoo
+# required by dev-haskell/c2hs-0.28.8::gentoo
+# required by dev-haskell/alsa-mixer-0.3.0::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[alsa]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/hscolour-1.24.4 ~amd64
+# required by dev-haskell/quickcheck-instances-0.3.22::gentoo
+# required by dev-haskell/extra-1.7.8::gentoo[test]
+# required by dev-haskell/dbus-1.2.16::gentoo[test]
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-mpris]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/splitmix-0.0.4 ~amd64
+# required by dev-haskell/tasty-th-0.1.7::gentoo
+# required by dev-haskell/lifted-async-0.10.0.6::gentoo[test]
+# required by dev-haskell/shelly-1.9.0::gentoo
+# required by dev-haskell/c2hs-0.28.8::gentoo[test,-regression]
+# required by dev-haskell/alsa-mixer-0.3.0::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[alsa]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/haskell-src-exts-1.21.1 ~amd64
+# required by dev-haskell/hspec-2.7.1::gentoo
+# required by dev-haskell/enclosed-exceptions-1.0.3::gentoo[test]
+# required by dev-haskell/shelly-1.9.0::gentoo
+# required by dev-haskell/c2hs-0.28.8::gentoo[test,-regression]
+# required by dev-haskell/alsa-mixer-0.3.0::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[alsa]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/hspec-core-2.7.1 ~amd64
+# required by dev-haskell/c2hs-0.28.8::gentoo[test,-regression]
+# required by dev-haskell/alsa-mixer-0.3.0::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[alsa]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/shelly-1.9.0 ~amd64
+# required by dev-haskell/hspec-core-2.7.1::gentoo
+# required by dev-haskell/hspec-contrib-0.5.1::gentoo
+# required by dev-haskell/shelly-1.9.0::gentoo[test]
+# required by dev-haskell/c2hs-0.28.8::gentoo[test,-regression]
+# required by dev-haskell/alsa-mixer-0.3.0::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[alsa]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/hunit-1.6.2.0 ~amd64
+# required by dev-haskell/cryptohash-md5-0.11.100.1::gentoo[test]
+# required by dev-haskell/uuid-1.3.13-r1::gentoo
+# required by dev-haskell/rebase-1.4.1::gentoo
+# required by dev-haskell/rerebase-1.4.1::gentoo
+# required by dev-haskell/vector-builder-0.3.8::gentoo[test]
+# required by dev-haskell/foldl-1.4.7::gentoo
+# required by dev-haskell/mono-traversable-1.0.15.1::gentoo[test]
+# required by dev-haskell/conduit-1.3.4::gentoo
+# required by dev-haskell/xml-conduit-1.9.1.1::gentoo
+# required by dev-haskell/dbus-1.2.16::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-mpris]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/puremd5-2.1.3 ~amd64
+# required by dev-haskell/tasty-hedgehog-1.0.0.2-r1::gentoo
+# required by dev-haskell/bsb-http-chunked-0.0.0.4::gentoo[test]
+# required by dev-haskell/warp-3.3.13::gentoo
+# required by dev-haskell/warp-tls-3.2.12::gentoo
+# required by dev-haskell/http-conduit-2.3.7.3::gentoo[test]
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-uvmeter,weather,-mpris,xpm]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/hedgehog-1.0.4 ~amd64
+# required by dev-haskell/hedgehog-1.0.4::gentoo
+# required by dev-haskell/bsb-http-chunked-0.0.0.4::gentoo[test]
+# required by dev-haskell/warp-3.3.13::gentoo
+# required by dev-haskell/warp-tls-3.2.12::gentoo
+# required by dev-haskell/http-conduit-2.3.7.3::gentoo[test]
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-uvmeter,weather,-mpris,xpm]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/wl-pprint-annotated-0.1.0.1 ~amd64
+# required by dev-haskell/http-conduit-2.3.7.3::gentoo[test]
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-uvmeter,weather,-mpris,xpm]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/wai-conduit-3.0.0.4 ~amd64
+# required by dev-haskell/uuid-1.3.13-r1::gentoo
+# required by dev-haskell/rebase-1.4.1::gentoo
+# required by dev-haskell/rerebase-1.4.1::gentoo
+# required by dev-haskell/vector-builder-0.3.8::gentoo[test]
+# required by dev-haskell/foldl-1.4.7::gentoo
+# required by dev-haskell/mono-traversable-1.0.15.1::gentoo[test]
+# required by dev-haskell/conduit-1.3.4::gentoo
+# required by dev-haskell/xml-conduit-1.9.1.1::gentoo
+# required by dev-haskell/dbus-1.2.16::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-mpris]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/cryptohash-sha1-0.11.100.1 ~amd64
+# required by dev-haskell/tasty-golden-2.3.1.1::gentoo[test]
+# required by dev-haskell/aeson-1.4.7.1::gentoo[test]
+# required by dev-haskell/aeson-pretty-0.8.8::gentoo
+# required by dev-haskell/http2-2.0.3::gentoo[test]
+# required by dev-haskell/warp-3.3.13::gentoo
+# required by dev-haskell/warp-tls-3.2.12::gentoo
+# required by dev-haskell/http-conduit-2.3.7.3::gentoo[test]
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-uvmeter,weather,-mpris,xpm]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/temporary-rc-1.2.0.3 ~amd64
+# required by dev-haskell/warp-3.3.13::gentoo
+# required by dev-haskell/warp-tls-3.2.12::gentoo
+# required by dev-haskell/http-conduit-2.3.7.3::gentoo[test]
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-uvmeter,weather,-mpris,xpm]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/time-manager-0.0.0 ~amd64
+# required by dev-haskell/warp-3.3.13::gentoo
+# required by dev-haskell/warp-tls-3.2.12::gentoo
+# required by dev-haskell/http-conduit-2.3.7.3::gentoo[test]
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-uvmeter,weather,-mpris,xpm]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/auto-update-0.1.6 ~amd64
+# required by dev-haskell/tasty-quickcheck-0.10.1.1::gentoo[test]
+# required by dev-haskell/blaze-markup-0.8.2.4::gentoo[test]
+# required by dev-haskell/blaze-html-0.9.1.2::gentoo
+# required by dev-haskell/xml-conduit-1.9.1.1::gentoo
+# required by dev-haskell/dbus-1.2.16::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-mpris]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/pcre-light-0.4.1.0 ~amd64
+# required by dev-haskell/haskell-src-exts-1.21.1::gentoo[test]
+# required by dev-haskell/tasty-th-0.1.7::gentoo
+# required by dev-haskell/lifted-async-0.10.0.6::gentoo[test]
+# required by dev-haskell/shelly-1.9.0::gentoo
+# required by dev-haskell/c2hs-0.28.8::gentoo[test,-regression]
+# required by dev-haskell/alsa-mixer-0.3.0::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[alsa]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/pretty-show-1.9.5 ~amd64
+# required by dev-haskell/dbus-1.2.16::gentoo[test]
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-mpris]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/tasty-hunit-0.10.0.2 ~amd64
+# required by dev-haskell/warp-3.3.13::gentoo
+# required by dev-haskell/warp-tls-3.2.12::gentoo
+# required by dev-haskell/http-conduit-2.3.7.3::gentoo[test]
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-uvmeter,weather,-mpris,xpm]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/http-date-0.0.8 ~amd64
+# required by dev-haskell/iproute-1.7.8::gentoo
+# required by dev-haskell/warp-3.3.13::gentoo
+# required by dev-haskell/warp-tls-3.2.12::gentoo
+# required by dev-haskell/http-conduit-2.3.7.3::gentoo[test]
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-uvmeter,weather,-mpris,xpm]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/byteorder-1.0.4 ~amd64
+# required by dev-haskell/warp-3.3.13::gentoo
+# required by dev-haskell/warp-tls-3.2.12::gentoo
+# required by dev-haskell/http-conduit-2.3.7.3::gentoo[test]
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-uvmeter,weather,-mpris,xpm]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/bsb-http-chunked-0.0.0.4 ~amd64
+# required by dev-haskell/rebase-1.4.1::gentoo
+# required by dev-haskell/rerebase-1.4.1::gentoo
+# required by dev-haskell/vector-builder-0.3.8::gentoo[test]
+# required by dev-haskell/foldl-1.4.7::gentoo
+# required by dev-haskell/mono-traversable-1.0.15.1::gentoo[test]
+# required by dev-haskell/conduit-1.3.4::gentoo
+# required by dev-haskell/xml-conduit-1.9.1.1::gentoo
+# required by dev-haskell/dbus-1.2.16::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-mpris]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/either-5.0.1.1 ~amd64
+# required by dev-haskell/selective-0.3::gentoo[test]
+# required by dev-haskell/rebase-1.4.1::gentoo
+# required by dev-haskell/rerebase-1.4.1::gentoo
+# required by dev-haskell/vector-builder-0.3.8::gentoo[test]
+# required by dev-haskell/foldl-1.4.7::gentoo
+# required by dev-haskell/mono-traversable-1.0.15.1::gentoo[test]
+# required by dev-haskell/conduit-1.3.4::gentoo
+# required by dev-haskell/xml-conduit-1.9.1.1::gentoo
+# required by dev-haskell/dbus-1.2.16::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-mpris]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/tasty-expected-failure-0.11.1.2 ~amd64
+# required by dev-haskell/rebase-1.4.1::gentoo
+# required by dev-haskell/rerebase-1.4.1::gentoo
+# required by dev-haskell/vector-builder-0.3.8::gentoo[test]
+# required by dev-haskell/foldl-1.4.7::gentoo
+# required by dev-haskell/mono-traversable-1.0.15.1::gentoo[test]
+# required by dev-haskell/conduit-1.3.4::gentoo
+# required by dev-haskell/xml-conduit-1.9.1.1::gentoo
+# required by dev-haskell/dbus-1.2.16::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-mpris]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/contravariant-extras-0.3.5.2 ~amd64
+# required by dev-haskell/optparse-applicative-0.15.1.0::gentoo
+# required by dev-haskell/tasty-golden-2.3.1.1::gentoo
+# required by dev-haskell/aeson-1.4.7.1::gentoo[test]
+# required by dev-haskell/aeson-pretty-0.8.8::gentoo
+# required by dev-haskell/http2-2.0.3::gentoo[test]
+# required by dev-haskell/warp-3.3.13::gentoo
+# required by dev-haskell/warp-tls-3.2.12::gentoo
+# required by dev-haskell/http-conduit-2.3.7.3::gentoo[test]
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-uvmeter,weather,-mpris,xpm]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/ansi-wl-pprint-0.6.8.2-r1 ~amd64
+# required by dev-haskell/aeson-1.4.7.1::gentoo[test]
+# required by dev-haskell/aeson-pretty-0.8.8::gentoo
+# required by dev-haskell/http2-2.0.3::gentoo[test]
+# required by dev-haskell/warp-3.3.13::gentoo
+# required by dev-haskell/warp-tls-3.2.12::gentoo
+# required by dev-haskell/http-conduit-2.3.7.3::gentoo[test]
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-uvmeter,weather,-mpris,xpm]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/generic-deriving-1.13.1 ~amd64
+# required by dev-haskell/foldl-1.4.7::gentoo
+# required by dev-haskell/mono-traversable-1.0.15.1::gentoo[test]
+# required by dev-haskell/conduit-1.3.4::gentoo
+# required by dev-haskell/xml-conduit-1.9.1.1::gentoo
+# required by dev-haskell/dbus-1.2.16::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-mpris]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/mwc-random-0.14.0.0 ~amd64
+# required by dev-haskell/aeson-1.4.7.1::gentoo[test]
+# required by dev-haskell/aeson-pretty-0.8.8::gentoo
+# required by dev-haskell/http2-2.0.3::gentoo[test]
+# required by dev-haskell/warp-3.3.13::gentoo
+# required by dev-haskell/warp-tls-3.2.12::gentoo
+# required by dev-haskell/http-conduit-2.3.7.3::gentoo[test]
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-uvmeter,weather,-mpris,xpm]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/hashable-time-0.2.0.2-r1 ~amd64
+# required by dev-haskell/haskell-src-exts-1.21.1::gentoo[test]
+# required by dev-haskell/tasty-th-0.1.7::gentoo
+# required by dev-haskell/lifted-async-0.10.0.6::gentoo[test]
+# required by dev-haskell/shelly-1.9.0::gentoo
+# required by dev-haskell/c2hs-0.28.8::gentoo[test,-regression]
+# required by dev-haskell/alsa-mixer-0.3.0::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[alsa]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/tasty-smallcheck-0.8.1 ~amd64
+# required by dev-haskell/math-functions-0.3.3.0::gentoo
+# required by dev-haskell/mwc-random-0.14.0.0::gentoo
+# required by dev-haskell/foldl-1.4.7::gentoo
+# required by dev-haskell/mono-traversable-1.0.15.1::gentoo[test]
+# required by dev-haskell/conduit-1.3.4::gentoo
+# required by dev-haskell/xml-conduit-1.9.1.1::gentoo
+# required by dev-haskell/dbus-1.2.16::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-mpris]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/vector-th-unbox-0.2.1.7 ~amd64
+# required by dev-haskell/concurrent-output-1.10.11::gentoo
+# required by dev-haskell/hedgehog-1.0.4::gentoo
+# required by dev-haskell/bsb-http-chunked-0.0.0.4::gentoo[test]
+# required by dev-haskell/warp-3.3.13::gentoo
+# required by dev-haskell/warp-tls-3.2.12::gentoo
+# required by dev-haskell/http-conduit-2.3.7.3::gentoo[test]
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-uvmeter,weather,-mpris,xpm]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/ansi-terminal-0.10.3 ~amd64
+# required by dev-haskell/memory-0.15.0::gentoo[test]
+# required by dev-haskell/http-client-tls-0.3.5.3::gentoo
+# required by dev-haskell/http-conduit-2.3.7.3::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-uvmeter,weather,-mpris,xpm]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/foundation-0.0.25 ~amd64
+# required by dev-haskell/foldl-1.4.7::gentoo[test]
+# required by dev-haskell/mono-traversable-1.0.15.1::gentoo[test]
+# required by dev-haskell/conduit-1.3.4::gentoo
+# required by dev-haskell/xml-conduit-1.9.1.1::gentoo
+# required by dev-haskell/dbus-1.2.16::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-mpris]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/doctest-0.16.3 ~amd64
+# required by dev-haskell/vector-builder-0.3.8::gentoo[test]
+# required by dev-haskell/foldl-1.4.7::gentoo
+# required by dev-haskell/mono-traversable-1.0.15.1::gentoo[test]
+# required by dev-haskell/conduit-1.3.4::gentoo
+# required by dev-haskell/xml-conduit-1.9.1.1::gentoo
+# required by dev-haskell/dbus-1.2.16::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-mpris]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/rerebase-1.4.1 ~amd64
+# required by dev-haskell/test-framework-0.8.2.0-r2::gentoo
+# required by dev-haskell/async-2.2.2::gentoo[test]
+# required by dev-haskell/enclosed-exceptions-1.0.3::gentoo[test]
+# required by dev-haskell/shelly-1.9.0::gentoo
+# required by dev-haskell/c2hs-0.28.8::gentoo[test,-regression]
+# required by dev-haskell/alsa-mixer-0.3.0::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[alsa]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/xml-1.3.14 ~amd64
+# required by dev-haskell/hspec-2.7.1::gentoo
+# required by dev-haskell/enclosed-exceptions-1.0.3::gentoo[test]
+# required by dev-haskell/shelly-1.9.0::gentoo
+# required by dev-haskell/c2hs-0.28.8::gentoo[test,-regression]
+# required by dev-haskell/alsa-mixer-0.3.0::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[alsa]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/quickcheck-2.13.2 ~amd64
+# required by dev-haskell/hedgehog-1.0.4::gentoo
+# required by dev-haskell/bsb-http-chunked-0.0.0.4::gentoo[test]
+# required by dev-haskell/warp-3.3.13::gentoo
+# required by dev-haskell/warp-tls-3.2.12::gentoo
+# required by dev-haskell/http-conduit-2.3.7.3::gentoo[test]
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-uvmeter,weather,-mpris,xpm]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/mmorph-1.1.3 ~amd64
+# required by dev-haskell/shelly-1.9.0::gentoo
+# required by dev-haskell/c2hs-0.28.8::gentoo[test,-regression]
+# required by dev-haskell/alsa-mixer-0.3.0::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[alsa]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/unix-compat-0.5.2 ~amd64
+# required by dev-haskell/cryptohash-sha1-0.11.100.1::gentoo[test]
+# required by dev-haskell/uuid-1.3.13-r1::gentoo
+# required by dev-haskell/rebase-1.4.1::gentoo
+# required by dev-haskell/rerebase-1.4.1::gentoo
+# required by dev-haskell/vector-builder-0.3.8::gentoo[test]
+# required by dev-haskell/foldl-1.4.7::gentoo
+# required by dev-haskell/mono-traversable-1.0.15.1::gentoo[test]
+# required by dev-haskell/conduit-1.3.4::gentoo
+# required by dev-haskell/xml-conduit-1.9.1.1::gentoo
+# required by dev-haskell/dbus-1.2.16::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-mpris]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/sha-1.6.4.4 ~amd64
+# required by dev-haskell/typed-process-0.2.6.0::gentoo[test]
+# required by dev-haskell/conduit-extra-1.3.4::gentoo
+# required by dev-haskell/xml-conduit-1.9.1.1::gentoo
+# required by dev-haskell/dbus-1.2.16::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-mpris]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/base64-bytestring-1.0.0.3 ~amd64
+# required by dev-haskell/hspec-discover-2.7.1::gentoo[test]
+# required by dev-haskell/hspec-2.7.1::gentoo
+# required by dev-haskell/enclosed-exceptions-1.0.3::gentoo[test]
+# required by dev-haskell/shelly-1.9.0::gentoo
+# required by dev-haskell/c2hs-0.28.8::gentoo[test,-regression]
+# required by dev-haskell/alsa-mixer-0.3.0::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[alsa]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/hspec-meta-2.6.0 ~amd64
+# required by dev-haskell/http2-2.0.3::gentoo[test]
+# required by dev-haskell/warp-3.3.13::gentoo
+# required by dev-haskell/warp-tls-3.2.12::gentoo
+# required by dev-haskell/http-conduit-2.3.7.3::gentoo[test]
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-uvmeter,weather,-mpris,xpm]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/aeson-pretty-0.8.8 ~amd64
+# required by dev-haskell/foldl-1.4.7::gentoo
+# required by dev-haskell/mono-traversable-1.0.15.1::gentoo[test]
+# required by dev-haskell/conduit-1.3.4::gentoo
+# required by dev-haskell/xml-conduit-1.9.1.1::gentoo
+# required by dev-haskell/dbus-1.2.16::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-mpris]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/vector-builder-0.3.8 ~amd64
+# required by dev-haskell/warp-tls-3.2.12::gentoo
+# required by dev-haskell/http-conduit-2.3.7.3::gentoo[test]
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-uvmeter,weather,-mpris,xpm]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/tls-session-manager-0.0.4 ~amd64
+# required by dev-haskell/conduit-1.3.4::gentoo[test]
+# required by dev-haskell/xml-conduit-1.9.1.1::gentoo
+# required by dev-haskell/dbus-1.2.16::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-mpris]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/unliftio-0.2.12.1 ~amd64
+# required by dev-haskell/lens-4.19.2-r2::gentoo[test]
+# required by dev-haskell/dbus-1.2.16::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-mpris]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/simple-reflect-0.3.3 ~amd64
+# required by dev-haskell/doctest-0.16.3::gentoo
+# required by dev-haskell/lens-4.19.2-r2::gentoo[test]
+# required by dev-haskell/dbus-1.2.16::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-mpris]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/ghc-paths-0.1.0.12-r1 ~amd64
+# required by dev-haskell/warp-3.3.13::gentoo
+# required by dev-haskell/warp-tls-3.2.12::gentoo
+# required by dev-haskell/http-conduit-2.3.7.3::gentoo[test]
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-uvmeter,weather,-mpris,xpm]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/iproute-1.7.8 ~amd64
+# required by dev-haskell/warp-3.3.13::gentoo
+# required by dev-haskell/warp-tls-3.2.12::gentoo
+# required by dev-haskell/http-conduit-2.3.7.3::gentoo[test]
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-uvmeter,weather,-mpris,xpm]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/simple-sendfile-0.2.28 ~amd64
+# required by dev-haskell/enclosed-exceptions-1.0.3::gentoo
+# required by dev-haskell/shelly-1.9.0::gentoo
+# required by dev-haskell/c2hs-0.28.8::gentoo[test,-regression]
+# required by dev-haskell/alsa-mixer-0.3.0::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[alsa]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/lifted-base-0.2.3.12 ~amd64
+# required by dev-haskell/hspec-meta-2.6.0::gentoo
+# required by dev-haskell/hspec-core-2.7.1::gentoo[test]
+# required by dev-haskell/hspec-contrib-0.5.1::gentoo
+# required by dev-haskell/shelly-1.9.0::gentoo[test]
+# required by dev-haskell/c2hs-0.28.8::gentoo[test,-regression]
+# required by dev-haskell/alsa-mixer-0.3.0::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[alsa]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/setenv-0.1.1.3 ~amd64
+# required by dev-haskell/cryptonite-0.26-r1::gentoo[test]
+# required by dev-haskell/http-client-tls-0.3.5.3::gentoo
+# required by dev-haskell/http-conduit-2.3.7.3::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-uvmeter,weather,-mpris,xpm]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/tasty-kat-0.0.3 ~amd64
+# required by dev-haskell/either-5.0.1.1::gentoo[test]
+# required by dev-haskell/rebase-1.4.1::gentoo
+# required by dev-haskell/rerebase-1.4.1::gentoo
+# required by dev-haskell/vector-builder-0.3.8::gentoo[test]
+# required by dev-haskell/foldl-1.4.7::gentoo
+# required by dev-haskell/mono-traversable-1.0.15.1::gentoo[test]
+# required by dev-haskell/conduit-1.3.4::gentoo
+# required by dev-haskell/xml-conduit-1.9.1.1::gentoo
+# required by dev-haskell/dbus-1.2.16::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-mpris]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/test-framework-quickcheck2-0.3.0.5-r1 ~amd64
+# required by dev-haskell/hspec-core-2.7.1::gentoo
+# required by dev-haskell/hspec-contrib-0.5.1::gentoo
+# required by dev-haskell/shelly-1.9.0::gentoo[test]
+# required by dev-haskell/c2hs-0.28.8::gentoo[test,-regression]
+# required by dev-haskell/alsa-mixer-0.3.0::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[alsa]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/quickcheck-io-0.2.0 ~amd64
+# required by dev-haskell/hedgehog-1.0.4::gentoo
+# required by dev-haskell/bsb-http-chunked-0.0.0.4::gentoo[test]
+# required by dev-haskell/warp-3.3.13::gentoo
+# required by dev-haskell/warp-tls-3.2.12::gentoo
+# required by dev-haskell/http-conduit-2.3.7.3::gentoo[test]
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-uvmeter,weather,-mpris,xpm]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/concurrent-output-1.10.11 ~amd64
+# required by dev-haskell/exceptions-0.10.4::gentoo[test]
+# required by dev-haskell/shelly-1.9.0::gentoo
+# required by dev-haskell/c2hs-0.28.8::gentoo[test,-regression]
+# required by dev-haskell/alsa-mixer-0.3.0::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[alsa]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/test-framework-hunit-0.3.0.2-r1 ~amd64
+# required by dev-haskell/doctest-0.16.3::gentoo[test]
+# required by dev-haskell/lens-4.19.2-r2::gentoo[test]
+# required by dev-haskell/dbus-1.2.16::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-mpris]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/silently-1.2.5.1 ~amd64
+# required by dev-haskell/smallcheck-1.2.0::gentoo
+# required by dev-haskell/tasty-smallcheck-0.8.1::gentoo
+# required by dev-haskell/haskell-src-exts-1.21.1::gentoo[test]
+# required by dev-haskell/tasty-th-0.1.7::gentoo
+# required by dev-haskell/lifted-async-0.10.0.6::gentoo[test]
+# required by dev-haskell/shelly-1.9.0::gentoo
+# required by dev-haskell/c2hs-0.28.8::gentoo[test,-regression]
+# required by dev-haskell/alsa-mixer-0.3.0::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[alsa]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/logict-0.7.0.3 ~amd64
+# required by dev-haskell/mwc-random-0.14.0.0::gentoo
+# required by dev-haskell/foldl-1.4.7::gentoo
+# required by dev-haskell/mono-traversable-1.0.15.1::gentoo[test]
+# required by dev-haskell/conduit-1.3.4::gentoo
+# required by dev-haskell/xml-conduit-1.9.1.1::gentoo
+# required by dev-haskell/dbus-1.2.16::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-mpris]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/math-functions-0.3.3.0 ~amd64
+# required by dev-haskell/dbus-1.2.16::gentoo[test]
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-mpris]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/extra-1.7.8 ~amd64
+# required by dev-haskell/hedgehog-1.0.4::gentoo
+# required by dev-haskell/bsb-http-chunked-0.0.0.4::gentoo[test]
+# required by dev-haskell/warp-3.3.13::gentoo
+# required by dev-haskell/warp-tls-3.2.12::gentoo
+# required by dev-haskell/http-conduit-2.3.7.3::gentoo[test]
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-uvmeter,weather,-mpris,xpm]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/lifted-async-0.10.0.6 ~amd64
+# required by dev-haskell/tls-session-manager-0.0.4::gentoo
+# required by dev-haskell/warp-tls-3.2.12::gentoo
+# required by dev-haskell/http-conduit-2.3.7.3::gentoo[test]
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-uvmeter,weather,-mpris,xpm]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/psqueues-0.2.7.2 ~amd64
+# required by dev-haskell/hedgehog-1.0.4::gentoo
+# required by dev-haskell/bsb-http-chunked-0.0.0.4::gentoo[test]
+# required by dev-haskell/warp-3.3.13::gentoo
+# required by dev-haskell/warp-tls-3.2.12::gentoo
+# required by dev-haskell/http-conduit-2.3.7.3::gentoo[test]
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-uvmeter,weather,-mpris,xpm]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/erf-2.0.0.0-r1 ~amd64
+# required by dev-haskell/test-framework-0.8.2.0-r2::gentoo
+# required by dev-haskell/async-2.2.2::gentoo[test]
+# required by dev-haskell/enclosed-exceptions-1.0.3::gentoo[test]
+# required by dev-haskell/shelly-1.9.0::gentoo
+# required by dev-haskell/c2hs-0.28.8::gentoo[test,-regression]
+# required by dev-haskell/alsa-mixer-0.3.0::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[alsa]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/hostname-1.0-r1 ~amd64
+# required by dev-haskell/aeson-pretty-0.8.8::gentoo[-lib-only]
+# required by dev-haskell/http2-2.0.3::gentoo[test]
+# required by dev-haskell/warp-3.3.13::gentoo
+# required by dev-haskell/warp-tls-3.2.12::gentoo
+# required by dev-haskell/http-conduit-2.3.7.3::gentoo[test]
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-uvmeter,weather,-mpris,xpm]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/cmdargs-0.10.20 ~amd64
+# required by dev-haskell/concurrent-output-1.10.11::gentoo
+# required by dev-haskell/hedgehog-1.0.4::gentoo
+# required by dev-haskell/bsb-http-chunked-0.0.0.4::gentoo[test]
+# required by dev-haskell/warp-3.3.13::gentoo
+# required by dev-haskell/warp-tls-3.2.12::gentoo
+# required by dev-haskell/http-conduit-2.3.7.3::gentoo[test]
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-uvmeter,weather,-mpris,xpm]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/terminal-size-0.3.2.1 ~amd64
+# required by dev-haskell/haskell-src-exts-1.21.1::gentoo[test]
+# required by dev-haskell/tasty-th-0.1.7::gentoo
+# required by dev-haskell/lifted-async-0.10.0.6::gentoo[test]
+# required by dev-haskell/shelly-1.9.0::gentoo
+# required by dev-haskell/c2hs-0.28.8::gentoo[test,-regression]
+# required by dev-haskell/alsa-mixer-0.3.0::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[alsa]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/smallcheck-1.2.0 ~amd64
+# required by dev-haskell/haskell-src-exts-1.21.1::gentoo[test]
+# required by dev-haskell/tasty-th-0.1.7::gentoo
+# required by dev-haskell/lifted-async-0.10.0.6::gentoo[test]
+# required by dev-haskell/shelly-1.9.0::gentoo
+# required by dev-haskell/c2hs-0.28.8::gentoo[test,-regression]
+# required by dev-haskell/alsa-mixer-0.3.0::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[alsa]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/tasty-golden-2.3.1.1 ~amd64
+# required by dev-haskell/doctest-0.16.3::gentoo[test]
+# required by dev-haskell/lens-4.19.2-r2::gentoo[test]
+# required by dev-haskell/dbus-1.2.16::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-mpris]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/mockery-0.3.5 ~amd64
+# required by dev-haskell/doctest-0.16.3::gentoo[test]
+# required by dev-haskell/lens-4.19.2-r2::gentoo[test]
+# required by dev-haskell/dbus-1.2.16::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-mpris]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/stringbuilder-0.5.1 ~amd64
+# required by dev-haskell/mono-traversable-1.0.15.1::gentoo[test]
+# required by dev-haskell/conduit-1.3.4::gentoo
+# required by dev-haskell/xml-conduit-1.9.1.1::gentoo
+# required by dev-haskell/dbus-1.2.16::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-mpris]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/foldl-1.4.7 ~amd64
+# required by dev-haskell/lifted-base-0.2.3.12::gentoo
+# required by dev-haskell/enclosed-exceptions-1.0.3::gentoo
+# required by dev-haskell/shelly-1.9.0::gentoo
+# required by dev-haskell/c2hs-0.28.8::gentoo[test,-regression]
+# required by dev-haskell/alsa-mixer-0.3.0::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[alsa]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/monad-control-1.0.2.3 ~amd64
+# required by dev-haskell/lifted-async-0.10.0.6::gentoo
+# required by dev-haskell/shelly-1.9.0::gentoo
+# required by dev-haskell/c2hs-0.28.8::gentoo[test,-regression]
+# required by dev-haskell/alsa-mixer-0.3.0::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[alsa]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/constraints-0.11.2 ~amd64
+# required by dev-haskell/warp-3.3.13::gentoo
+# required by dev-haskell/warp-tls-3.2.12::gentoo
+# required by dev-haskell/http-conduit-2.3.7.3::gentoo[test]
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-uvmeter,weather,-mpris,xpm]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/vault-0.3.1.4 ~amd64
+# required by dev-haskell/rebase-1.4.1::gentoo
+# required by dev-haskell/rerebase-1.4.1::gentoo
+# required by dev-haskell/vector-builder-0.3.8::gentoo[test]
+# required by dev-haskell/foldl-1.4.7::gentoo
+# required by dev-haskell/mono-traversable-1.0.15.1::gentoo[test]
+# required by dev-haskell/conduit-1.3.4::gentoo
+# required by dev-haskell/xml-conduit-1.9.1.1::gentoo
+# required by dev-haskell/dbus-1.2.16::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-mpris]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/uuid-1.3.13-r1 ~amd64
+# required by dev-haskell/vector-builder-0.3.8::gentoo
+# required by dev-haskell/foldl-1.4.7::gentoo
+# required by dev-haskell/mono-traversable-1.0.15.1::gentoo[test]
+# required by dev-haskell/conduit-1.3.4::gentoo
+# required by dev-haskell/xml-conduit-1.9.1.1::gentoo
+# required by dev-haskell/dbus-1.2.16::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-mpris]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/base-prelude-1.3 ~amd64
+# required by dev-haskell/shelly-1.9.0::gentoo[test]
+# required by dev-haskell/c2hs-0.28.8::gentoo[test,-regression]
+# required by dev-haskell/alsa-mixer-0.3.0::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[alsa]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/hspec-contrib-0.5.1 ~amd64
+# required by dev-haskell/hspec-meta-2.6.0::gentoo
+# required by dev-haskell/hspec-core-2.7.1::gentoo[test]
+# required by dev-haskell/hspec-contrib-0.5.1::gentoo
+# required by dev-haskell/shelly-1.9.0::gentoo[test]
+# required by dev-haskell/c2hs-0.28.8::gentoo[test,-regression]
+# required by dev-haskell/alsa-mixer-0.3.0::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[alsa]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/hspec-expectations-0.8.2 ~amd64
+# required by dev-haskell/lifted-async-0.10.0.6::gentoo[test]
+# required by dev-haskell/shelly-1.9.0::gentoo
+# required by dev-haskell/c2hs-0.28.8::gentoo[test,-regression]
+# required by dev-haskell/alsa-mixer-0.3.0::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[alsa]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/tasty-th-0.1.7 ~amd64
+# required by dev-haskell/hspec-core-2.7.1::gentoo
+# required by dev-haskell/hspec-contrib-0.5.1::gentoo
+# required by dev-haskell/shelly-1.9.0::gentoo[test]
+# required by dev-haskell/c2hs-0.28.8::gentoo[test,-regression]
+# required by dev-haskell/alsa-mixer-0.3.0::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[alsa]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/tf-random-0.5 ~amd64
+# required by dev-haskell/uuid-1.3.13-r1::gentoo
+# required by dev-haskell/rebase-1.4.1::gentoo
+# required by dev-haskell/rerebase-1.4.1::gentoo
+# required by dev-haskell/vector-builder-0.3.8::gentoo[test]
+# required by dev-haskell/foldl-1.4.7::gentoo
+# required by dev-haskell/mono-traversable-1.0.15.1::gentoo[test]
+# required by dev-haskell/conduit-1.3.4::gentoo
+# required by dev-haskell/xml-conduit-1.9.1.1::gentoo
+# required by dev-haskell/dbus-1.2.16::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-mpris]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/network-info-0.2.0.10 ~amd64
+# required by dev-haskell/aeson-1.4.7.1::gentoo[test]
+# required by dev-haskell/aeson-pretty-0.8.8::gentoo
+# required by dev-haskell/http2-2.0.3::gentoo[test]
+# required by dev-haskell/warp-3.3.13::gentoo
+# required by dev-haskell/warp-tls-3.2.12::gentoo
+# required by dev-haskell/http-conduit-2.3.7.3::gentoo[test]
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-uvmeter,weather,-mpris,xpm]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/quickcheck-instances-0.3.22 ~amd64
+# required by dev-haskell/bsb-http-chunked-0.0.0.4::gentoo[test]
+# required by dev-haskell/warp-3.3.13::gentoo
+# required by dev-haskell/warp-tls-3.2.12::gentoo
+# required by dev-haskell/http-conduit-2.3.7.3::gentoo[test]
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-uvmeter,weather,-mpris,xpm]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/tasty-hedgehog-1.0.0.2-r1 ~amd64
+# required by dev-haskell/hspec-core-2.7.1::gentoo
+# required by dev-haskell/hspec-contrib-0.5.1::gentoo
+# required by dev-haskell/shelly-1.9.0::gentoo[test]
+# required by dev-haskell/c2hs-0.28.8::gentoo[test,-regression]
+# required by dev-haskell/alsa-mixer-0.3.0::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[alsa]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/clock-0.7.2 ~amd64
+# required by dev-haskell/contravariant-extras-0.3.5.2::gentoo
+# required by dev-haskell/rebase-1.4.1::gentoo
+# required by dev-haskell/rerebase-1.4.1::gentoo
+# required by dev-haskell/vector-builder-0.3.8::gentoo[test]
+# required by dev-haskell/foldl-1.4.7::gentoo
+# required by dev-haskell/mono-traversable-1.0.15.1::gentoo[test]
+# required by dev-haskell/conduit-1.3.4::gentoo
+# required by dev-haskell/xml-conduit-1.9.1.1::gentoo
+# required by dev-haskell/dbus-1.2.16::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-mpris]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/template-haskell-compat-v0208-0.1.4 ~amd64
+# required by dev-haskell/puremd5-2.1.3::gentoo[test]
+# required by dev-haskell/cryptohash-md5-0.11.100.1::gentoo[test]
+# required by dev-haskell/uuid-1.3.13-r1::gentoo
+# required by dev-haskell/rebase-1.4.1::gentoo
+# required by dev-haskell/rerebase-1.4.1::gentoo
+# required by dev-haskell/vector-builder-0.3.8::gentoo[test]
+# required by dev-haskell/foldl-1.4.7::gentoo
+# required by dev-haskell/mono-traversable-1.0.15.1::gentoo[test]
+# required by dev-haskell/conduit-1.3.4::gentoo
+# required by dev-haskell/xml-conduit-1.9.1.1::gentoo
+# required by dev-haskell/dbus-1.2.16::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-mpris]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/crypto-api-tests-0.3-r1 ~amd64
+# required by dev-haskell/iproute-1.7.8::gentoo
+# required by dev-haskell/warp-3.3.13::gentoo
+# required by dev-haskell/warp-tls-3.2.12::gentoo
+# required by dev-haskell/http-conduit-2.3.7.3::gentoo[test]
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-uvmeter,weather,-mpris,xpm]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/appar-0.1.8 ~amd64
+# required by dev-haskell/vector-builder-0.3.8::gentoo[test]
+# required by dev-haskell/foldl-1.4.7::gentoo
+# required by dev-haskell/mono-traversable-1.0.15.1::gentoo[test]
+# required by dev-haskell/conduit-1.3.4::gentoo
+# required by dev-haskell/xml-conduit-1.9.1.1::gentoo
+# required by dev-haskell/dbus-1.2.16::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-mpris]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/tasty-quickcheck-0.10.1.1 ~amd64
+# required by dev-haskell/cryptohash-md5-0.11.100.1::gentoo[test]
+# required by dev-haskell/uuid-1.3.13-r1::gentoo
+# required by dev-haskell/rebase-1.4.1::gentoo
+# required by dev-haskell/rerebase-1.4.1::gentoo
+# required by dev-haskell/vector-builder-0.3.8::gentoo[test]
+# required by dev-haskell/foldl-1.4.7::gentoo
+# required by dev-haskell/mono-traversable-1.0.15.1::gentoo[test]
+# required by dev-haskell/conduit-1.3.4::gentoo
+# required by dev-haskell/xml-conduit-1.9.1.1::gentoo
+# required by dev-haskell/dbus-1.2.16::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-mpris]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/base16-bytestring-0.1.1.7 ~amd64
+# required by dev-haskell/ansi-terminal-0.10.3::gentoo
+# required by dev-haskell/concurrent-output-1.10.11::gentoo
+# required by dev-haskell/hedgehog-1.0.4::gentoo
+# required by dev-haskell/bsb-http-chunked-0.0.0.4::gentoo[test]
+# required by dev-haskell/warp-3.3.13::gentoo
+# required by dev-haskell/warp-tls-3.2.12::gentoo
+# required by dev-haskell/http-conduit-2.3.7.3::gentoo[test]
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-uvmeter,weather,-mpris,xpm]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/colour-2.3.5 ~amd64
+# required by dev-haskell/hspec-2.7.1::gentoo
+# required by dev-haskell/enclosed-exceptions-1.0.3::gentoo[test]
+# required by dev-haskell/shelly-1.9.0::gentoo
+# required by dev-haskell/c2hs-0.28.8::gentoo[test,-regression]
+# required by dev-haskell/alsa-mixer-0.3.0::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[alsa]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/hspec-discover-2.7.1 ~amd64
+# required by dev-haskell/http-conduit-2.3.7.3::gentoo[test]
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-uvmeter,weather,-mpris,xpm]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/warp-tls-3.2.12 ~amd64
+# required by dev-haskell/doctest-0.16.3::gentoo
+# required by dev-haskell/lens-4.19.2-r2::gentoo[test]
+# required by dev-haskell/dbus-1.2.16::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-mpris]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/code-page-0.1.3 ~amd64
+# required by dev-haskell/warp-3.3.13::gentoo
+# required by dev-haskell/warp-tls-3.2.12::gentoo
+# required by dev-haskell/http-conduit-2.3.7.3::gentoo[test]
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-uvmeter,weather,-mpris,xpm]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/word8-0.1.3 ~amd64
+# required by dev-haskell/uuid-1.3.13-r1::gentoo
+# required by dev-haskell/rebase-1.4.1::gentoo
+# required by dev-haskell/rerebase-1.4.1::gentoo
+# required by dev-haskell/vector-builder-0.3.8::gentoo[test]
+# required by dev-haskell/foldl-1.4.7::gentoo
+# required by dev-haskell/mono-traversable-1.0.15.1::gentoo[test]
+# required by dev-haskell/conduit-1.3.4::gentoo
+# required by dev-haskell/xml-conduit-1.9.1.1::gentoo
+# required by dev-haskell/dbus-1.2.16::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-mpris]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/entropy-0.4.1.6 ~amd64
+# required by dev-haskell/rerebase-1.4.1::gentoo
+# required by dev-haskell/vector-builder-0.3.8::gentoo[test]
+# required by dev-haskell/foldl-1.4.7::gentoo
+# required by dev-haskell/mono-traversable-1.0.15.1::gentoo[test]
+# required by dev-haskell/conduit-1.3.4::gentoo
+# required by dev-haskell/xml-conduit-1.9.1.1::gentoo
+# required by dev-haskell/dbus-1.2.16::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-mpris]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/rebase-1.4.1 ~amd64
+# required by dev-haskell/hspec-core-2.7.1::gentoo[test]
+# required by dev-haskell/hspec-contrib-0.5.1::gentoo
+# required by dev-haskell/shelly-1.9.0::gentoo[test]
+# required by dev-haskell/c2hs-0.28.8::gentoo[test,-regression]
+# required by dev-haskell/alsa-mixer-0.3.0::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[alsa]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/temporary-1.3 ~amd64
+# required by dev-haskell/aeson-1.4.7.1::gentoo[test]
+# required by dev-haskell/aeson-pretty-0.8.8::gentoo
+# required by dev-haskell/http2-2.0.3::gentoo[test]
+# required by dev-haskell/warp-3.3.13::gentoo
+# required by dev-haskell/warp-tls-3.2.12::gentoo
+# required by dev-haskell/http-conduit-2.3.7.3::gentoo[test]
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-uvmeter,weather,-mpris,xpm]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/diff-0.4.0 ~amd64
+# required by dev-haskell/tasty-1.2.3::gentoo
+# required by dev-haskell/blaze-markup-0.8.2.4::gentoo[test]
+# required by dev-haskell/blaze-html-0.9.1.2::gentoo
+# required by dev-haskell/xml-conduit-1.9.1.1::gentoo
+# required by dev-haskell/dbus-1.2.16::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-mpris]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/optparse-applicative-0.15.1.0 ~amd64
+# required by dev-haskell/warp-3.3.13::gentoo
+# required by dev-haskell/warp-tls-3.2.12::gentoo
+# required by dev-haskell/http-conduit-2.3.7.3::gentoo[test]
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-uvmeter,weather,-mpris,xpm]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/wai-3.2.2.1 ~amd64
+# required by dev-haskell/iproute-1.7.8::gentoo[test]
+# required by dev-haskell/warp-3.3.13::gentoo
+# required by dev-haskell/warp-tls-3.2.12::gentoo
+# required by dev-haskell/http-conduit-2.3.7.3::gentoo[test]
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-uvmeter,weather,-mpris,xpm]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/safe-0.3.19 ~amd64
+# required by dev-haskell/tasty-1.2.3::gentoo
+# required by dev-haskell/blaze-markup-0.8.2.4::gentoo[test]
+# required by dev-haskell/blaze-html-0.9.1.2::gentoo
+# required by dev-haskell/xml-conduit-1.9.1.1::gentoo
+# required by dev-haskell/dbus-1.2.16::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-mpris]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/unbounded-delays-0.1.1.0 ~amd64
+# required by dev-haskell/http2-2.0.3::gentoo
+# required by dev-haskell/warp-3.3.13::gentoo
+# required by dev-haskell/warp-tls-3.2.12::gentoo
+# required by dev-haskell/http-conduit-2.3.7.3::gentoo[test]
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-uvmeter,weather,-mpris,xpm]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/network-byte-order-0.1.4.0 ~amd64
+# required by dev-haskell/auto-update-0.1.6::gentoo[test]
+# required by dev-haskell/time-manager-0.0.0::gentoo
+# required by dev-haskell/http2-2.0.3::gentoo
+# required by dev-haskell/warp-3.3.13::gentoo
+# required by dev-haskell/warp-tls-3.2.12::gentoo
+# required by dev-haskell/http-conduit-2.3.7.3::gentoo[test]
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-uvmeter,weather,-mpris,xpm]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/retry-0.8.1.1 ~amd64
+# required by dev-haskell/rebase-1.4.1::gentoo
+# required by dev-haskell/rerebase-1.4.1::gentoo
+# required by dev-haskell/vector-builder-0.3.8::gentoo[test]
+# required by dev-haskell/foldl-1.4.7::gentoo
+# required by dev-haskell/mono-traversable-1.0.15.1::gentoo[test]
+# required by dev-haskell/conduit-1.3.4::gentoo
+# required by dev-haskell/xml-conduit-1.9.1.1::gentoo
+# required by dev-haskell/dbus-1.2.16::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-mpris]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/selective-0.3 ~amd64
+# required by dev-haskell/either-5.0.1.1::gentoo[test]
+# required by dev-haskell/rebase-1.4.1::gentoo
+# required by dev-haskell/rerebase-1.4.1::gentoo
+# required by dev-haskell/vector-builder-0.3.8::gentoo[test]
+# required by dev-haskell/foldl-1.4.7::gentoo
+# required by dev-haskell/mono-traversable-1.0.15.1::gentoo[test]
+# required by dev-haskell/conduit-1.3.4::gentoo
+# required by dev-haskell/xml-conduit-1.9.1.1::gentoo
+# required by dev-haskell/dbus-1.2.16::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-mpris]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/test-framework-0.8.2.0-r2 ~amd64
+# required by dev-haskell/http-conduit-2.3.7.3::gentoo[test]
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-uvmeter,weather,-mpris,xpm]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/warp-3.3.13 ~amd64
+# required by dev-haskell/crypto-api-tests-0.3-r1::gentoo
+# required by dev-haskell/puremd5-2.1.3::gentoo[test]
+# required by dev-haskell/cryptohash-md5-0.11.100.1::gentoo[test]
+# required by dev-haskell/uuid-1.3.13-r1::gentoo
+# required by dev-haskell/rebase-1.4.1::gentoo
+# required by dev-haskell/rerebase-1.4.1::gentoo
+# required by dev-haskell/vector-builder-0.3.8::gentoo[test]
+# required by dev-haskell/foldl-1.4.7::gentoo
+# required by dev-haskell/mono-traversable-1.0.15.1::gentoo[test]
+# required by dev-haskell/conduit-1.3.4::gentoo
+# required by dev-haskell/xml-conduit-1.9.1.1::gentoo
+# required by dev-haskell/dbus-1.2.16::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-mpris]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/crypto-api-0.13.3 ~amd64
+# required by dev-haskell/network-3.0.1.1::gentoo[test]
+# required by dev-haskell/dbus-1.2.16::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-mpris]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/hspec-2.7.1 ~amd64
+# required by dev-haskell/shelly-1.9.0::gentoo
+# required by dev-haskell/c2hs-0.28.8::gentoo[test,-regression]
+# required by dev-haskell/alsa-mixer-0.3.0::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[alsa]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/enclosed-exceptions-1.0.3 ~amd64
+# required by dev-haskell/tasty-1.2.3::gentoo
+# required by dev-haskell/blaze-markup-0.8.2.4::gentoo[test]
+# required by dev-haskell/blaze-html-0.9.1.2::gentoo
+# required by dev-haskell/xml-conduit-1.9.1.1::gentoo
+# required by dev-haskell/dbus-1.2.16::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-mpris]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/wcwidth-0.0.2 ~amd64
+# required by dev-haskell/tasty-hunit-0.10.0.2::gentoo
+# required by dev-haskell/blaze-markup-0.8.2.4::gentoo[test]
+# required by dev-haskell/blaze-html-0.9.1.2::gentoo
+# required by dev-haskell/xml-conduit-1.9.1.1::gentoo
+# required by dev-haskell/dbus-1.2.16::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-mpris]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/tasty-1.2.3 ~amd64
+# required by dev-haskell/uuid-1.3.13-r1::gentoo
+# required by dev-haskell/rebase-1.4.1::gentoo
+# required by dev-haskell/rerebase-1.4.1::gentoo
+# required by dev-haskell/vector-builder-0.3.8::gentoo[test]
+# required by dev-haskell/foldl-1.4.7::gentoo
+# required by dev-haskell/mono-traversable-1.0.15.1::gentoo[test]
+# required by dev-haskell/conduit-1.3.4::gentoo
+# required by dev-haskell/xml-conduit-1.9.1.1::gentoo
+# required by dev-haskell/dbus-1.2.16::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-mpris]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/cryptohash-md5-0.11.100.1 ~amd64
+# required by dev-haskell/call-stack-0.3.0::gentoo[test]
+# required by dev-haskell/lens-4.19.2-r2::gentoo
+# required by dev-haskell/dbus-1.2.16::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-mpris]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/nanospec-0.2.2 ~amd64
+# required by dev-haskell/warp-3.3.13::gentoo
+# required by dev-haskell/warp-tls-3.2.12::gentoo
+# required by dev-haskell/http-conduit-2.3.7.3::gentoo[test]
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-uvmeter,weather,-mpris,xpm]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/http2-2.0.3 ~amd64
+# required by dev-haskell/mockery-0.3.5::gentoo
+# required by dev-haskell/doctest-0.16.3::gentoo[test]
+# required by dev-haskell/lens-4.19.2-r2::gentoo[test]
+# required by dev-haskell/dbus-1.2.16::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-mpris]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/logging-facade-0.3.0 ~amd64
+# required by dev-haskell/http2-2.0.3::gentoo[test]
+# required by dev-haskell/warp-3.3.13::gentoo
+# required by dev-haskell/warp-tls-3.2.12::gentoo
+# required by dev-haskell/http-conduit-2.3.7.3::gentoo[test]
+# required by x11-misc/xmobar-0.37::gentoo[dbus,-uvmeter,weather,-mpris,xpm]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/glob-0.10.1 ~amd64
+# required by dev-haskell/pretty-show-1.9.5::gentoo
+# required by dev-haskell/haskell-src-exts-1.21.1::gentoo[test]
+# required by dev-haskell/tasty-th-0.1.7::gentoo
+# required by dev-haskell/lifted-async-0.10.0.6::gentoo[test]
+# required by dev-haskell/shelly-1.9.0::gentoo
+# required by dev-haskell/c2hs-0.28.8::gentoo[test,-regression]
+# required by dev-haskell/alsa-mixer-0.3.0::gentoo
+# required by x11-misc/xmobar-0.37::gentoo[alsa]
+# required by x11-misc/xmobar (argument)
+=dev-haskell/haskell-lexer-1.0.2 ~amd64
+# required by iwlib (argument)
+=dev-haskell/iwlib-0.1.0 ~amd64
